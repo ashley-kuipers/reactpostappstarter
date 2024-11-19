@@ -1,0 +1,18 @@
+.card {
+    background-color: var(--mantine-color-body);
+}
+
+.title {
+    font-weight: bold;
+    font-size: 40px !important;
+    line-height: 1.2;
+}
+
+.body {
+    padding: var(--mantine-spacing-md);
+}
+
+.mantine-Breadcrumbs-breadcrumb {
+    color:grey;
+    font-size:1rem;
+}
